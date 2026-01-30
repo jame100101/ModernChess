@@ -1,4 +1,5 @@
 # Modern Chess Game / 现代国际象棋游戏
+![icon](https://github.com/user-attachments/assets/cc55ffb6-3339-4599-80eb-ffe845044643)
 
 [English](#english) | [中文](#中文)
 
@@ -47,6 +48,7 @@ The game includes a **ChessAIController** class that provides full UCI (Universa
 2. Place `stockfish.exe` (Windows) or `stockfish` (Mac/Linux) in the project directory
 3. The game will automatically detect and use it when available
 4. Falls back to internal AI if Stockfish is not found
+5. also the release zip file include stockfish.exe so that you dont need to do anything
 
 **Supported Engines:**
 
@@ -212,7 +214,7 @@ This project is open source and available for educational purposes.
 2. 将 `stockfish.exe`（Windows）或 `stockfish`（Mac/Linux）放到项目目录
 3. 游戏会自动检测并使用它
 4. 如果未找到Stockfish，会自动回退到内置AI
-
+5. release 里的zip文件夹中自动包含stockfish.exe 你不需要下载任何东西 
 **支持的引擎：**
 
 - Stockfish（推荐）
@@ -337,3 +339,5 @@ java ChessGame
 ## 🎮 Enjoy the Game! / 享受游戏
 
 Made with ❤️ using Java Swing
+
+creater: jame100101 (with the help of cursur and google antigrivity)
