@@ -1,0 +1,30 @@
+# JRE运行时（发布时提供）
+jre/
+jre_11_backup/
+jre_temp/
+
+# Stockfish引擎（发布时提供）
+stockfish.exe
+
+# 编译输出
+*.class
+build/
+
+# 临时文件
+*.log
+*.zip
+*.jar
+
+# IDE文件
+.vscode/
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 其他临时文件
+jre23.zip
+jre_extract/
